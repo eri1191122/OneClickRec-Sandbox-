@@ -1,0 +1,1069 @@
+.\core\file_verifier.py:11:1: F401 'subprocess' imported but unused
+.\core\file_verifier.py:14:1: F401 'typing.Tuple' imported but unused
+.\core\file_verifier.py:17:1: F401 'hashlib' imported but unused
+.\core\file_verifier.py:18:1: F401 'json' imported but unused
+.\core\file_verifier.py:44:1: W293 blank line contains whitespace
+.\core\file_verifier.py:60:1: W293 blank line contains whitespace
+.\core\file_verifier.py:64:1: W293 blank line contains whitespace
+.\core\file_verifier.py:69:1: W293 blank line contains whitespace
+.\core\file_verifier.py:80:1: W293 blank line contains whitespace
+.\core\file_verifier.py:82:80: E501 line too long (103 > 79 characters)
+.\core\file_verifier.py:85:1: W293 blank line contains whitespace
+.\core\file_verifier.py:90:1: W293 blank line contains whitespace
+.\core\file_verifier.py:102:1: W293 blank line contains whitespace
+.\core\file_verifier.py:104:1: W293 blank line contains whitespace
+.\core\file_verifier.py:109:80: E501 line too long (82 > 79 characters)
+.\core\file_verifier.py:112:1: W293 blank line contains whitespace
+.\core\file_verifier.py:117:80: E501 line too long (82 > 79 characters)
+.\core\file_verifier.py:120:1: W293 blank line contains whitespace
+.\core\file_verifier.py:127:1: W293 blank line contains whitespace
+.\core\file_verifier.py:139:1: W293 blank line contains whitespace
+.\core\file_verifier.py:142:80: E501 line too long (90 > 79 characters)
+.\core\file_verifier.py:146:1: W293 blank line contains whitespace
+.\core\file_verifier.py:148:31: W291 trailing whitespace
+.\core\file_verifier.py:153:1: W293 blank line contains whitespace
+.\core\file_verifier.py:158:1: W293 blank line contains whitespace
+.\core\file_verifier.py:164:1: W293 blank line contains whitespace
+.\core\file_verifier.py:167:80: E501 line too long (80 > 79 characters)
+.\core\file_verifier.py:183:1: W293 blank line contains whitespace
+.\core\file_verifier.py:186:80: E501 line too long (85 > 79 characters)
+.\core\file_verifier.py:203:1: W293 blank line contains whitespace
+.\core\file_verifier.py:212:1: W293 blank line contains whitespace
+.\core\file_verifier.py:219:1: W293 blank line contains whitespace
+.\core\file_verifier.py:231:1: W293 blank line contains whitespace
+.\core\file_verifier.py:243:1: W293 blank line contains whitespace
+.\core\file_verifier.py:245:80: E501 line too long (88 > 79 characters)
+.\core\file_verifier.py:248:1: W293 blank line contains whitespace
+.\core\file_verifier.py:252:1: W293 blank line contains whitespace
+.\core\file_verifier.py:263:1: W293 blank line contains whitespace
+.\core\file_verifier.py:267:1: W293 blank line contains whitespace
+.\core\file_verifier.py:274:1: W293 blank line contains whitespace
+.\core\file_verifier.py:283:80: E501 line too long (80 > 79 characters)
+.\core\file_verifier.py:285:80: E501 line too long (82 > 79 characters)
+.\core\file_verifier.py:289:1: W293 blank line contains whitespace
+.\core\file_verifier.py:296:1: W293 blank line contains whitespace
+.\core\file_verifier.py:299:80: E501 line too long (84 > 79 characters)
+.\core\file_verifier.py:304:1: W293 blank line contains whitespace
+.\core\file_verifier.py:319:1: W293 blank line contains whitespace
+.\core\file_verifier.py:330:1: W293 blank line contains whitespace
+.\core\file_verifier.py:335:1: W293 blank line contains whitespace
+.\core\file_verifier.py:339:1: W293 blank line contains whitespace
+.\core\file_verifier.py:350:1: W293 blank line contains whitespace
+.\core\file_verifier.py:356:1: W293 blank line contains whitespace
+.\core\file_verifier.py:363:1: W293 blank line contains whitespace
+.\core\file_verifier.py:372:17: E722 do not use bare 'except'
+.\core\file_verifier.py:374:1: W293 blank line contains whitespace
+.\core\file_verifier.py:380:1: W293 blank line contains whitespace
+.\core\file_verifier.py:382:1: W293 blank line contains whitespace
+.\core\file_verifier.py:394:32: F541 f-string is missing placeholders
+.\core\file_verifier.py:398:1: W293 blank line contains whitespace
+.\core\file_verifier.py:418:1: W293 blank line contains whitespace
+.\core\file_verifier.py:427:1: W293 blank line contains whitespace
+.\core\file_verifier.py:449:1: W293 blank line contains whitespace
+.\core\file_verifier.py:450:32: W291 trailing whitespace
+.\core\file_verifier.py:451:26: E128 continuation line under-indented for visual indent
+.\core\file_verifier.py:452:26: E128 continuation line under-indented for visual indent
+.\core\file_verifier.py:452:80: E501 line too long (106 > 79 characters)
+.\core\file_verifier.py:455:1: W293 blank line contains whitespace
+.\core\file_verifier.py:459:1: W293 blank line contains whitespace
+.\core\file_verifier.py:465:1: W293 blank line contains whitespace
+.\core\file_verifier.py:467:80: E501 line too long (80 > 79 characters)
+.\core\file_verifier.py:468:1: W293 blank line contains whitespace
+.\core\file_verifier.py:473:1: W293 blank line contains whitespace
+.\core\file_verifier.py:478:1: W293 blank line contains whitespace
+.\core\file_verifier.py:483:1: W293 blank line contains whitespace
+.\core\file_verifier.py:486:1: W293 blank line contains whitespace
+.\core\file_verifier.py:493:80: E501 line too long (103 > 79 characters)
+.\core\file_verifier.py:497:1: W293 blank line contains whitespace
+.\core\file_verifier.py:503:1: W293 blank line contains whitespace
+.\core\file_verifier.py:508:1: W293 blank line contains whitespace
+.\core\file_verifier.py:511:1: W293 blank line contains whitespace
+.\core\file_verifier.py:525:1: W293 blank line contains whitespace
+.\core\file_verifier.py:526:80: E501 line too long (106 > 79 characters)
+.\core\file_verifier.py:531:31: W291 trailing whitespace
+.\core\file_verifier.py:535:1: W293 blank line contains whitespace
+.\core\file_verifier.py:542:1: W293 blank line contains whitespace
+.\core\file_verifier.py:548:1: W293 blank line contains whitespace
+.\core\file_verifier.py:554:1: W293 blank line contains whitespace
+.\core\file_verifier.py:561:1: W293 blank line contains whitespace
+.\core\file_verifier.py:568:1: W293 blank line contains whitespace
+.\core\file_verifier.py:572:1: W293 blank line contains whitespace
+.\core\file_verifier.py:590:1: W293 blank line contains whitespace
+.\core\file_verifier.py:597:1: W293 blank line contains whitespace
+.\core\file_verifier.py:599:1: W293 blank line contains whitespace
+.\core\file_verifier.py:622:26: W291 trailing whitespace
+.\core\file_verifier.py:630:2: W292 no newline at end of file
+.\core\process_engine.py:12:1: F401 'threading' imported but unused
+.\core\process_engine.py:16:1: F401 'typing.AsyncIterator' imported but unused
+.\core\process_engine.py:71:1: W293 blank line contains whitespace
+.\core\process_engine.py:78:1: W293 blank line contains whitespace
+.\core\process_engine.py:90:1: W293 blank line contains whitespace
+.\core\process_engine.py:95:1: W293 blank line contains whitespace
+.\core\process_engine.py:99:1: W293 blank line contains whitespace
+.\core\process_engine.py:104:1: W293 blank line contains whitespace
+.\core\process_engine.py:105:37: W291 trailing whitespace
+.\core\process_engine.py:106:31: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:107:31: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:108:31: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:108:80: E501 line too long (102 > 79 characters)
+.\core\process_engine.py:111:1: W293 blank line contains whitespace
+.\core\process_engine.py:119:1: W293 blank line contains whitespace
+.\core\process_engine.py:127:1: W293 blank line contains whitespace
+.\core\process_engine.py:130:80: E501 line too long (91 > 79 characters)
+.\core\process_engine.py:131:80: E501 line too long (91 > 79 characters)
+.\core\process_engine.py:132:80: E501 line too long (81 > 79 characters)
+.\core\process_engine.py:134:1: W293 blank line contains whitespace
+.\core\process_engine.py:138:1: W293 blank line contains whitespace
+.\core\process_engine.py:143:1: W293 blank line contains whitespace
+.\core\process_engine.py:147:1: W293 blank line contains whitespace
+.\core\process_engine.py:149:1: W293 blank line contains whitespace
+.\core\process_engine.py:150:36: W291 trailing whitespace
+.\core\process_engine.py:151:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:151:46: W291 trailing whitespace
+.\core\process_engine.py:152:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:153:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:157:1: W293 blank line contains whitespace
+.\core\process_engine.py:163:1: W293 blank line contains whitespace
+.\core\process_engine.py:167:1: W293 blank line contains whitespace
+.\core\process_engine.py:175:1: W293 blank line contains whitespace
+.\core\process_engine.py:194:1: W293 blank line contains whitespace
+.\core\process_engine.py:204:1: W293 blank line contains whitespace
+.\core\process_engine.py:205:36: W291 trailing whitespace
+.\core\process_engine.py:206:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:206:46: W291 trailing whitespace
+.\core\process_engine.py:207:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:208:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:212:1: W293 blank line contains whitespace
+.\core\process_engine.py:218:1: W293 blank line contains whitespace
+.\core\process_engine.py:222:1: W293 blank line contains whitespace
+.\core\process_engine.py:229:1: W293 blank line contains whitespace
+.\core\process_engine.py:239:1: W293 blank line contains whitespace
+.\core\process_engine.py:240:80: E501 line too long (97 > 79 characters)
+.\core\process_engine.py:245:1: W293 blank line contains whitespace
+.\core\process_engine.py:254:1: W293 blank line contains whitespace
+.\core\process_engine.py:264:1: W293 blank line contains whitespace
+.\core\process_engine.py:273:13: F841 local variable 'e' is assigned to but never used
+.\core\process_engine.py:283:1: W293 blank line contains whitespace
+.\core\process_engine.py:285:72: W291 trailing whitespace
+.\core\process_engine.py:286:35: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:287:35: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:290:1: W293 blank line contains whitespace
+.\core\process_engine.py:295:1: W293 blank line contains whitespace
+.\core\process_engine.py:301:1: W293 blank line contains whitespace
+.\core\process_engine.py:310:1: W293 blank line contains whitespace
+.\core\process_engine.py:318:1: W293 blank line contains whitespace
+.\core\process_engine.py:322:70: W291 trailing whitespace
+.\core\process_engine.py:323:34: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:327:13: E722 do not use bare 'except'
+.\core\process_engine.py:329:1: W293 blank line contains whitespace
+.\core\process_engine.py:339:1: W293 blank line contains whitespace
+.\core\process_engine.py:343:1: W293 blank line contains whitespace
+.\core\process_engine.py:351:1: W293 blank line contains whitespace
+.\core\process_engine.py:359:1: W293 blank line contains whitespace
+.\core\process_engine.py:360:36: W291 trailing whitespace
+.\core\process_engine.py:361:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:362:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:363:30: E128 continuation line under-indented for visual indent
+.\core\process_engine.py:363:80: E501 line too long (95 > 79 characters)
+.\core\process_engine.py:366:1: W293 blank line contains whitespace
+.\core\process_engine.py:371:1: W293 blank line contains whitespace
+.\core\process_engine.py:377:1: W293 blank line contains whitespace
+.\core\process_engine.py:380:1: W293 blank line contains whitespace
+.\core\process_engine.py:386:1: W293 blank line contains whitespace
+.\core\process_engine.py:391:1: W293 blank line contains whitespace
+.\core\process_engine.py:395:80: E501 line too long (87 > 79 characters)
+.\core\process_engine.py:396:1: W293 blank line contains whitespace
+.\core\process_engine.py:400:80: E501 line too long (87 > 79 characters)
+.\core\process_engine.py:406:1: W293 blank line contains whitespace
+.\core\process_engine.py:416:17: E722 do not use bare 'except'
+.\core\process_engine.py:418:1: W293 blank line contains whitespace
+.\core\process_engine.py:422:1: W293 blank line contains whitespace
+.\core\process_engine.py:425:80: E501 line too long (98 > 79 characters)
+.\core\process_engine.py:426:1: W293 blank line contains whitespace
+.\core\process_engine.py:431:1: W293 blank line contains whitespace
+.\core\process_engine.py:442:80: E501 line too long (114 > 79 characters)
+.\core\process_engine.py:445:1: W293 blank line contains whitespace
+.\core\process_engine.py:448:1: W293 blank line contains whitespace
+.\core\process_engine.py:452:1: W293 blank line contains whitespace
+.\core\process_engine.py:463:1: W293 blank line contains whitespace
+.\core\process_engine.py:470:1: W293 blank line contains whitespace
+.\core\process_engine.py:478:1: W293 blank line contains whitespace
+.\core\process_engine.py:483:1: W293 blank line contains whitespace
+.\core\process_engine.py:487:1: W293 blank line contains whitespace
+.\core\process_engine.py:488:80: E501 line too long (90 > 79 characters)
+.\core\process_engine.py:497:1: W293 blank line contains whitespace
+.\core\process_engine.py:506:24: W291 trailing whitespace
+.\core\process_engine.py:513:2: W292 no newline at end of file
+.\core\retry_strategy.py:13:1: F401 'datetime.timedelta' imported but unused
+.\core\retry_strategy.py:14:1: F401 'typing.Union' imported but unused
+.\core\retry_strategy.py:49:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:69:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:88:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:93:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:98:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:102:80: E501 line too long (99 > 79 characters)
+.\core\retry_strategy.py:110:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:112:80: E501 line too long (122 > 79 characters)
+.\core\retry_strategy.py:115:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:120:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:130:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:133:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:135:80: E501 line too long (91 > 79 characters)
+.\core\retry_strategy.py:136:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:139:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:142:80: E501 line too long (90 > 79 characters)
+.\core\retry_strategy.py:143:80: E501 line too long (111 > 79 characters)
+.\core\retry_strategy.py:145:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:149:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:152:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:159:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:161:42: W291 trailing whitespace
+.\core\retry_strategy.py:162:21: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:163:21: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:164:21: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:164:80: E501 line too long (89 > 79 characters)
+.\core\retry_strategy.py:167:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:173:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:180:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:188:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:195:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:204:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:208:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:220:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:222:33: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:223:33: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:224:33: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:224:80: E501 line too long (92 > 79 characters)
+.\core\retry_strategy.py:225:33: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:225:80: E501 line too long (111 > 79 characters)
+.\core\retry_strategy.py:228:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:234:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:241:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:243:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:252:80: E501 line too long (85 > 79 characters)
+.\core\retry_strategy.py:256:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:268:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:272:80: E501 line too long (96 > 79 characters)
+.\core\retry_strategy.py:274:80: E501 line too long (100 > 79 characters)
+.\core\retry_strategy.py:276:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:283:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:286:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:292:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:297:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:299:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:300:80: E501 line too long (82 > 79 characters)
+.\core\retry_strategy.py:301:80: E501 line too long (111 > 79 characters)
+.\core\retry_strategy.py:302:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:310:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:317:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:318:80: E501 line too long (95 > 79 characters)
+.\core\retry_strategy.py:319:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:325:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:329:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:333:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:341:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:346:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:354:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:356:32: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:357:32: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:358:32: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:358:80: E501 line too long (119 > 79 characters)
+.\core\retry_strategy.py:361:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:366:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:373:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:375:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:389:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:393:80: E501 line too long (96 > 79 characters)
+.\core\retry_strategy.py:395:80: E501 line too long (100 > 79 characters)
+.\core\retry_strategy.py:397:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:404:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:407:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:410:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:415:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:417:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:418:80: E501 line too long (82 > 79 characters)
+.\core\retry_strategy.py:419:80: E501 line too long (111 > 79 characters)
+.\core\retry_strategy.py:420:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:428:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:435:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:436:80: E501 line too long (95 > 79 characters)
+.\core\retry_strategy.py:437:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:443:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:447:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:451:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:459:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:464:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:472:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:477:80: E501 line too long (94 > 79 characters)
+.\core\retry_strategy.py:478:80: E501 line too long (91 > 79 characters)
+.\core\retry_strategy.py:482:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:484:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:499:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:510:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:521:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:531:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:541:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:554:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:565:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:581:22: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:582:22: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:582:80: E501 line too long (87 > 79 characters)
+.\core\retry_strategy.py:585:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:590:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:593:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:599:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:600:80: E501 line too long (80 > 79 characters)
+.\core\retry_strategy.py:601:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:609:15: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:610:15: E128 continuation line under-indented for visual indent
+.\core\retry_strategy.py:610:80: E501 line too long (80 > 79 characters)
+.\core\retry_strategy.py:613:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:618:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:621:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:627:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:629:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:639:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:648:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:651:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:658:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:660:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:670:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:673:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:679:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:681:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:690:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:701:1: W293 blank line contains whitespace
+.\core\retry_strategy.py:719:2: W292 no newline at end of file
+.\core\verifier\checkers\base.py:16:1: E302 expected 2 blank lines, found 1
+.\core\verifier\checkers\base.py:28:1: W293 blank line contains whitespace
+.\core\verifier\checkers\base.py:38:1: W293 blank line contains whitespace
+.\core\verifier\checkers\base.py:41:1: W293 blank line contains whitespace
+.\core\verifier\checkers\base.py:46:1: W391 blank line at end of file
+.\core\verifier\checkers\size_checker.py:14:1: E302 expected 2 blank lines, found 1
+.\core\verifier\checkers\size_checker.py:16:14: W291 trailing whitespace
+.\core\verifier\checkers\size_checker.py:17:33: W291 trailing whitespace
+.\core\verifier\checkers\size_checker.py:25:80: E501 line too long (95 > 79 characters)
+.\core\verifier\checkers\size_checker.py:26:80: E501 line too long (80 > 79 characters)
+.\core\verifier\checkers\size_checker.py:27:80: E501 line too long (98 > 79 characters)
+.\core\verifier\checkers\size_checker.py:28:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:33:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:38:80: E501 line too long (84 > 79 characters)
+.\core\verifier\checkers\size_checker.py:44:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:49:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:56:80: E501 line too long (80 > 79 characters)
+.\core\verifier\checkers\size_checker.py:64:80: E501 line too long (81 > 79 characters)
+.\core\verifier\checkers\size_checker.py:66:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:70:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:76:80: E501 line too long (86 > 79 characters)
+.\core\verifier\checkers\size_checker.py:78:80: E501 line too long (93 > 79 characters)
+.\core\verifier\checkers\size_checker.py:80:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:85:80: E501 line too long (86 > 79 characters)
+.\core\verifier\checkers\size_checker.py:87:80: E501 line too long (93 > 79 characters)
+.\core\verifier\checkers\size_checker.py:89:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:92:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:93:80: E501 line too long (85 > 79 characters)
+.\core\verifier\checkers\size_checker.py:95:80: E501 line too long (90 > 79 characters)
+.\core\verifier\checkers\size_checker.py:96:1: W293 blank line contains whitespace
+.\core\verifier\checkers\size_checker.py:105:1: E302 expected 2 blank lines, found 1
+.\core\verifier\checkers\size_checker.py:113:80: E501 line too long (80 > 79 characters)
+.\core\verifier\checkers\size_checker.py:114:1: W293 blank line contains whitespace
+.\core\verifier\engine.py:5:1: F401 'pathlib.Path' imported but unused
+.\core\verifier\engine.py:6:1: F401 'typing.List' imported but unused
+.\core\verifier\engine.py:6:1: F401 'typing.Union' imported but unused
+.\core\verifier\engine.py:11:1: F401 '.checkers.base.VerificationStrategy' imported but unused
+.\core\verifier\engine.py:12:1: F401 '.result.StrategyResult' imported but unused
+.\core\verifier\engine.py:12:1: F401 '.result.Severity' imported but unused
+.\core\verifier\engine.py:14:1: E302 expected 2 blank lines, found 1
+.\core\verifier\engine.py:23:1: E302 expected 2 blank lines, found 1
+.\core\verifier\engine.py:27:1: W293 blank line contains whitespace
+.\core\verifier\engine.py:32:1: W293 blank line contains whitespace
+.\core\verifier\engine.py:35:1: W293 blank line contains whitespace
+.\core\verifier\engine.py:43:1: W293 blank line contains whitespace
+.\core\verifier\engine.py:48:1: W293 blank line contains whitespace
+.\core\verifier\engine.py:50:1: W293 blank line contains whitespace
+.\core\verifier\engine.py:53:1: E302 expected 2 blank lines, found 1
+.\core\verifier\engine.py:68:1: W293 blank line contains whitespace
+.\core\verifier\result.py:20:1: E302 expected 2 blank lines, found 1
+.\core\verifier\result.py:26:22: E261 at least two spaces before inline comment
+.\core\verifier\result.py:28:1: E302 expected 2 blank lines, found 1
+.\core\verifier\result.py:34:1: E302 expected 2 blank lines, found 1
+.\core\verifier\result.py:54:1: E302 expected 2 blank lines, found 1
+.\core\verifier\result.py:80:80: E501 line too long (81 > 79 characters)
+.\core\verifier\result.py:82:1: W293 blank line contains whitespace
+.\core\verifier\result.py:92:80: E501 line too long (82 > 79 characters)
+.\core\verifier\result.py:98:1: W391 blank line at end of file
+.\exceptions_auth.py:15:80: E501 line too long (114 > 79 characters)
+.\exceptions_auth.py:23:80: E501 line too long (97 > 79 characters)
+.\exceptions_auth.py:30:80: E501 line too long (134 > 79 characters)
+.\exceptions_auth.py:38:80: E501 line too long (131 > 79 characters)
+.\exceptions_auth.py:46:80: E501 line too long (158 > 79 characters)
+.\exceptions_auth.py:55:80: E501 line too long (149 > 79 characters)
+.\exceptions_auth.py:97:80: E501 line too long (93 > 79 characters)
+.\exceptions_auth.py:98:80: E501 line too long (84 > 79 characters)
+.\exceptions_auth.py:99:80: E501 line too long (106 > 79 characters)
+.\exceptions_auth.py:100:80: E501 line too long (80 > 79 characters)
+.\exceptions_auth.py:102:1: W293 blank line contains whitespace
+.\exceptions_auth.py:109:21: W292 no newline at end of file
+.\exceptions_base.py:11:1: F401 'asyncio' imported but unused
+.\exceptions_base.py:12:1: F401 'typing.Union' imported but unused
+.\exceptions_base.py:49:1: W293 blank line contains whitespace
+.\exceptions_base.py:55:80: E501 line too long (80 > 79 characters)
+.\exceptions_base.py:56:1: W293 blank line contains whitespace
+.\exceptions_base.py:63:80: E501 line too long (82 > 79 characters)
+.\exceptions_base.py:64:1: W293 blank line contains whitespace
+.\exceptions_base.py:72:80: E501 line too long (80 > 79 characters)
+.\exceptions_base.py:73:1: W293 blank line contains whitespace
+.\exceptions_base.py:76:80: E501 line too long (82 > 79 characters)
+.\exceptions_base.py:83:1: W293 blank line contains whitespace
+.\exceptions_base.py:91:1: W293 blank line contains whitespace
+.\exceptions_base.py:99:1: W293 blank line contains whitespace
+.\exceptions_base.py:107:1: W293 blank line contains whitespace
+.\exceptions_base.py:112:80: E501 line too long (81 > 79 characters)
+.\exceptions_base.py:113:1: W293 blank line contains whitespace
+.\exceptions_base.py:114:80: E501 line too long (84 > 79 characters)
+.\exceptions_base.py:118:1: W293 blank line contains whitespace
+.\exceptions_base.py:130:1: W293 blank line contains whitespace
+.\exceptions_base.py:146:1: W293 blank line contains whitespace
+.\exceptions_base.py:149:1: W293 blank line contains whitespace
+.\exceptions_base.py:155:1: W293 blank line contains whitespace
+.\exceptions_base.py:159:1: W293 blank line contains whitespace
+.\exceptions_base.py:163:1: W293 blank line contains whitespace
+.\exceptions_base.py:167:1: W293 blank line contains whitespace
+.\exceptions_base.py:170:80: E501 line too long (89 > 79 characters)
+.\exceptions_base.py:177:1: W293 blank line contains whitespace
+.\exceptions_base.py:190:80: E501 line too long (100 > 79 characters)
+.\exceptions_base.py:193:1: W293 blank line contains whitespace
+.\exceptions_base.py:197:1: W293 blank line contains whitespace
+.\exceptions_base.py:200:1: W293 blank line contains whitespace
+.\exceptions_base.py:213:80: E501 line too long (81 > 79 characters)
+.\exceptions_base.py:220:80: E501 line too long (106 > 79 characters)
+.\exceptions_base.py:235:80: E501 line too long (80 > 79 characters)
+.\exceptions_base.py:245:80: E501 line too long (80 > 79 characters)
+.\exceptions_base.py:250:80: E501 line too long (109 > 79 characters)
+.\exceptions_base.py:257:80: E501 line too long (80 > 79 characters)
+.\exceptions_base.py:264:80: E501 line too long (126 > 79 characters)
+.\exceptions_base.py:265:80: E501 line too long (80 > 79 characters)
+.\exceptions_base.py:311:1: W293 blank line contains whitespace
+.\exceptions_base.py:318:1: W293 blank line contains whitespace
+.\exceptions_base.py:320:20: W291 trailing whitespace
+.\exceptions_base.py:341:24: W291 trailing whitespace
+.\exceptions_base.py:353:1: W293 blank line contains whitespace
+.\exceptions_base.py:356:1: W293 blank line contains whitespace
+.\exceptions_base.py:357:32: W292 no newline at end of file
+.\exceptions_enhanced.py:12:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:17:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:22:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:29:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:37:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:50:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:52:14: W291 trailing whitespace
+.\exceptions_enhanced.py:53:22: W291 trailing whitespace
+.\exceptions_enhanced.py:63:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:71:80: E501 line too long (99 > 79 characters)
+.\exceptions_enhanced.py:77:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:78:80: E501 line too long (99 > 79 characters)
+.\exceptions_enhanced.py:85:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:87:14: W291 trailing whitespace
+.\exceptions_enhanced.py:88:22: W291 trailing whitespace
+.\exceptions_enhanced.py:89:29: W291 trailing whitespace
+.\exceptions_enhanced.py:98:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:100:14: W291 trailing whitespace
+.\exceptions_enhanced.py:101:22: W291 trailing whitespace
+.\exceptions_enhanced.py:109:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:117:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:119:14: W291 trailing whitespace
+.\exceptions_enhanced.py:120:22: W291 trailing whitespace
+.\exceptions_enhanced.py:128:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:136:1: W293 blank line contains whitespace
+.\exceptions_enhanced.py:138:14: W291 trailing whitespace
+.\exceptions_enhanced.py:139:22: W291 trailing whitespace
+.\exceptions_enhanced.py:153:80: E501 line too long (91 > 79 characters)
+.\exceptions_enhanced.py:159:18: W291 trailing whitespace
+.\exceptions_enhanced.py:160:19: W291 trailing whitespace
+.\exceptions_enhanced.py:164:80: E501 line too long (95 > 79 characters)
+.\exceptions_enhanced.py:168:18: W291 trailing whitespace
+.\exceptions_enhanced.py:169:25: W291 trailing whitespace
+.\exceptions_enhanced.py:173:80: E501 line too long (81 > 79 characters)
+.\exceptions_enhanced.py:173:82: W292 no newline at end of file
+.\exceptions_init.py:37:34: E261 at least two spaces before inline comment
+.\exceptions_init.py:51:36: E261 at least two spaces before inline comment
+.\exceptions_init.py:64:39: E261 at least two spaces before inline comment
+.\exceptions_init.py:74:37: E261 at least two spaces before inline comment
+.\exceptions_init.py:79:1: E302 expected 2 blank lines, found 1
+.\exceptions_init.py:129:80: E501 line too long (87 > 79 characters)
+.\exceptions_init.py:156:80: E501 line too long (86 > 79 characters)
+.\exceptions_init.py:157:1: W293 blank line contains whitespace
+.\exceptions_init.py:159:80: E501 line too long (101 > 79 characters)
+.\exceptions_init.py:160:1: W293 blank line contains whitespace
+.\exceptions_init.py:162:80: E501 line too long (100 > 79 characters)
+.\exceptions_init.py:164:1: W293 blank line contains whitespace
+.\exceptions_init.py:166:80: E501 line too long (84 > 79 characters)
+.\exceptions_init.py:169:1: W293 blank line contains whitespace
+.\exceptions_init.py:171:80: E501 line too long (85 > 79 characters)
+.\exceptions_init.py:172:80: E501 line too long (99 > 79 characters)
+.\exceptions_init.py:173:1: W293 blank line contains whitespace
+.\exceptions_init.py:176:1: W293 blank line contains whitespace
+.\exceptions_init.py:186:1: W293 blank line contains whitespace
+.\exceptions_init.py:190:80: E501 line too long (89 > 79 characters)
+.\exceptions_init.py:195:1: W293 blank line contains whitespace
+.\exceptions_init.py:207:1: W293 blank line contains whitespace
+.\exceptions_init.py:208:42: W292 no newline at end of file
+.\exceptions_network.py:15:80: E501 line too long (133 > 79 characters)
+.\exceptions_network.py:23:80: E501 line too long (144 > 79 characters)
+.\exceptions_network.py:32:80: E501 line too long (96 > 79 characters)
+.\exceptions_network.py:39:80: E501 line too long (136 > 79 characters)
+.\exceptions_network.py:47:80: E501 line too long (129 > 79 characters)
+.\exceptions_network.py:57:80: E501 line too long (121 > 79 characters)
+.\exceptions_network.py:81:80: E501 line too long (80 > 79 characters)
+.\exceptions_network.py:84:80: E501 line too long (90 > 79 characters)
+.\exceptions_network.py:86:1: W293 blank line contains whitespace
+.\exceptions_network.py:92:21: W292 no newline at end of file
+.\exceptions_recording.py:9:1: F401 'typing.Dict' imported but unused
+.\exceptions_recording.py:9:1: F401 'typing.Any' imported but unused
+.\exceptions_recording.py:15:80: E501 line too long (133 > 79 characters)
+.\exceptions_recording.py:23:80: E501 line too long (139 > 79 characters)
+.\exceptions_recording.py:24:80: E501 line too long (80 > 79 characters)
+.\exceptions_recording.py:31:80: E501 line too long (101 > 79 characters)
+.\exceptions_recording.py:38:80: E501 line too long (134 > 79 characters)
+.\exceptions_recording.py:39:80: E501 line too long (83 > 79 characters)
+.\exceptions_recording.py:46:80: E501 line too long (149 > 79 characters)
+.\exceptions_recording.py:47:80: E501 line too long (82 > 79 characters)
+.\exceptions_recording.py:54:80: E501 line too long (156 > 79 characters)
+.\exceptions_recording.py:55:80: E501 line too long (82 > 79 characters)
+.\exceptions_recording.py:57:80: E501 line too long (121 > 79 characters)
+.\exceptions_recording.py:60:80: E501 line too long (99 > 79 characters)
+.\exceptions_recording.py:65:80: E501 line too long (156 > 79 characters)
+.\exceptions_recording.py:67:80: E501 line too long (80 > 79 characters)
+.\exceptions_recording.py:69:80: E501 line too long (99 > 79 characters)
+.\exceptions_recording.py:74:80: E501 line too long (138 > 79 characters)
+.\exceptions_recording.py:84:80: E501 line too long (92 > 79 characters)
+.\exceptions_recording.py:110:80: E501 line too long (82 > 79 characters)
+.\exceptions_recording.py:111:80: E501 line too long (96 > 79 characters)
+.\exceptions_recording.py:113:1: W293 blank line contains whitespace
+.\exceptions_recording.py:119:21: W292 no newline at end of file
+.\exceptions_stream.py:20:1: W293 blank line contains whitespace
+.\exceptions_stream.py:22:14: W291 trailing whitespace
+.\exceptions_stream.py:23:22: W291 trailing whitespace
+.\exceptions_stream.py:24:42: W291 trailing whitespace
+.\exceptions_stream.py:25:60: W291 trailing whitespace
+.\exceptions_stream.py:29:1: W293 blank line contains whitespace
+.\exceptions_stream.py:31:1: W293 blank line contains whitespace
+.\exceptions_stream.py:33:80: E501 line too long (86 > 79 characters)
+.\exceptions_stream.py:34:80: E501 line too long (86 > 79 characters)
+.\exceptions_stream.py:35:1: W293 blank line contains whitespace
+.\exceptions_stream.py:48:1: W293 blank line contains whitespace
+.\exceptions_stream.py:55:1: W293 blank line contains whitespace
+.\exceptions_stream.py:74:1: W293 blank line contains whitespace
+.\exceptions_stream.py:76:1: W293 blank line contains whitespace
+.\exceptions_stream.py:80:1: W293 blank line contains whitespace
+.\exceptions_stream.py:84:1: W293 blank line contains whitespace
+.\exceptions_stream.py:92:80: E501 line too long (137 > 79 characters)
+.\exceptions_stream.py:93:80: E501 line too long (83 > 79 characters)
+.\exceptions_stream.py:99:80: E501 line too long (131 > 79 characters)
+.\exceptions_stream.py:100:80: E501 line too long (81 > 79 characters)
+.\exceptions_stream.py:106:80: E501 line too long (167 > 79 characters)
+.\exceptions_stream.py:113:80: E501 line too long (100 > 79 characters)
+.\exceptions_stream.py:114:80: E501 line too long (105 > 79 characters)
+.\exceptions_stream.py:119:80: E501 line too long (103 > 79 characters)
+.\exceptions_stream.py:120:80: E501 line too long (105 > 79 characters)
+.\exceptions_stream.py:125:80: E501 line too long (138 > 79 characters)
+.\exceptions_stream.py:126:80: E501 line too long (85 > 79 characters)
+.\exceptions_stream.py:132:80: E501 line too long (139 > 79 characters)
+.\exceptions_stream.py:133:80: E501 line too long (85 > 79 characters)
+.\exceptions_stream.py:139:80: E501 line too long (191 > 79 characters)
+.\exceptions_stream.py:140:80: E501 line too long (93 > 79 characters)
+.\exceptions_stream.py:148:80: E501 line too long (102 > 79 characters)
+.\exceptions_stream.py:162:80: E501 line too long (83 > 79 characters)
+.\exceptions_stream.py:163:1: W293 blank line contains whitespace
+.\exceptions_stream.py:168:1: W293 blank line contains whitespace
+.\exceptions_stream.py:174:80: E501 line too long (109 > 79 characters)
+.\exceptions_stream.py:175:80: E501 line too long (85 > 79 characters)
+.\exceptions_stream.py:176:80: E501 line too long (158 > 79 characters)
+.\exceptions_stream.py:178:1: W293 blank line contains whitespace
+.\exceptions_stream.py:185:21: W292 no newline at end of file
+.\logging_system_final_full_v3\logging_core.py:13:1: E302 expected 2 blank lines, found 1
+.\logging_system_final_full_v3\logging_core.py:34:80: E501 line too long (88 > 79 characters)
+.\logging_system_final_full_v3\logging_core.py:37:80: E501 line too long (85 > 79 characters)
+.\logging_system_final_full_v3\logging_core.py:49:80: E501 line too long (88 > 79 characters)
+.\logging_system_final_full_v3\logging_core.py:63:1: E302 expected 2 blank lines, found 1
+.\logging_system_final_full_v3\logging_core.py:69:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:11:1: F401 'os' imported but unused
+.\main_improved.py:22:1: F401 'exceptions_base.ErrorCode' imported but unused
+.\main_improved.py:25:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:25:24: W291 trailing whitespace
+.\main_improved.py:29:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:29:29: W291 trailing whitespace
+.\main_improved.py:31:21: W291 trailing whitespace
+.\main_improved.py:35:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:39:40: W291 trailing whitespace
+.\main_improved.py:40:31: W291 trailing whitespace
+.\main_improved.py:41:35: W291 trailing whitespace
+.\main_improved.py:42:33: W291 trailing whitespace
+.\main_improved.py:43:30: W291 trailing whitespace
+.\main_improved.py:47:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:49:5: E301 expected 1 blank line, found 0
+.\main_improved.py:51:80: E501 line too long (110 > 79 characters)
+.\main_improved.py:54:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:55:40: W291 trailing whitespace
+.\main_improved.py:57:5: E301 expected 1 blank line, found 0
+.\main_improved.py:57:21: W291 trailing whitespace
+.\main_improved.py:59:5: E301 expected 1 blank line, found 0
+.\main_improved.py:59:20: W291 trailing whitespace
+.\main_improved.py:61:5: E301 expected 1 blank line, found 0
+.\main_improved.py:61:31: W291 trailing whitespace
+.\main_improved.py:62:80: E501 line too long (99 > 79 characters)
+.\main_improved.py:64:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:65:40: W291 trailing whitespace
+.\main_improved.py:67:5: E301 expected 1 blank line, found 0
+.\main_improved.py:67:38: W291 trailing whitespace
+.\main_improved.py:70:1: E302 expected 2 blank lines, found 1
+.\main_improved.py:71:40: W291 trailing whitespace
+.\main_improved.py:74:1: W293 blank line contains whitespace
+.\main_improved.py:75:80: E501 line too long (103 > 79 characters)
+.\main_improved.py:77:80: E501 line too long (82 > 79 characters)
+.\main_improved.py:79:1: W293 blank line contains whitespace
+.\main_improved.py:82:1: W293 blank line contains whitespace
+.\main_improved.py:86:1: W293 blank line contains whitespace
+.\main_improved.py:88:36: W291 trailing whitespace
+.\main_improved.py:90:1: W293 blank line contains whitespace
+.\main_improved.py:93:80: E501 line too long (102 > 79 characters)
+.\main_improved.py:107:1: W293 blank line contains whitespace
+.\main_improved.py:114:1: W293 blank line contains whitespace
+.\main_improved.py:117:24: W291 trailing whitespace
+.\main_improved.py:143:80: E501 line too long (83 > 79 characters)
+.\main_improved.py:151:32: W291 trailing whitespace
+.\main_improved.py:153:80: E501 line too long (80 > 79 characters)
+.\main_improved.py:156:80: E501 line too long (118 > 79 characters)
+.\main_improved.py:174:1: W293 blank line contains whitespace
+.\main_improved.py:175:80: E501 line too long (81 > 79 characters)
+.\main_improved.py:176:80: E501 line too long (82 > 79 characters)
+.\main_improved.py:177:1: W293 blank line contains whitespace
+.\main_improved.py:180:1: W293 blank line contains whitespace
+.\main_improved.py:182:1: W293 blank line contains whitespace
+.\main_improved.py:193:30: W291 trailing whitespace
+.\main_improved.py:195:18: W291 trailing whitespace
+.\main_improved.py:199:80: E501 line too long (86 > 79 characters)
+.\main_improved.py:202:80: E501 line too long (96 > 79 characters)
+.\main_improved.py:211:80: E501 line too long (87 > 79 characters)
+.\main_improved.py:212:1: W293 blank line contains whitespace
+.\main_improved.py:216:1: W293 blank line contains whitespace
+.\main_improved.py:219:80: E501 line too long (86 > 79 characters)
+.\main_improved.py:221:1: W293 blank line contains whitespace
+.\main_improved.py:228:1: W293 blank line contains whitespace
+.\main_improved.py:232:38: W291 trailing whitespace
+.\main_improved.py:233:33: W291 trailing whitespace
+.\main_improved.py:237:1: W293 blank line contains whitespace
+.\main_improved.py:239:35: W291 trailing whitespace
+.\main_improved.py:240:45: W291 trailing whitespace
+.\main_improved.py:246:80: E501 line too long (88 > 79 characters)
+.\main_improved.py:248:1: W293 blank line contains whitespace
+.\main_improved.py:251:1: W293 blank line contains whitespace
+.\main_improved.py:257:80: E501 line too long (83 > 79 characters)
+.\main_improved.py:260:1: W293 blank line contains whitespace
+.\main_improved.py:265:1: W293 blank line contains whitespace
+.\main_improved.py:272:1: W293 blank line contains whitespace
+.\main_improved.py:277:80: E501 line too long (81 > 79 characters)
+.\main_improved.py:279:1: W293 blank line contains whitespace
+.\main_improved.py:281:80: E501 line too long (80 > 79 characters)
+.\main_improved.py:282:80: E501 line too long (83 > 79 characters)
+.\main_improved.py:284:80: E501 line too long (82 > 79 characters)
+.\main_improved.py:286:1: W293 blank line contains whitespace
+.\main_improved.py:288:80: E501 line too long (106 > 79 characters)
+.\main_improved.py:293:1: W293 blank line contains whitespace
+.\main_improved.py:298:41: W291 trailing whitespace
+.\main_improved.py:299:38: W291 trailing whitespace
+.\main_improved.py:309:1: W293 blank line contains whitespace
+.\main_improved.py:314:39: W291 trailing whitespace
+.\main_improved.py:315:37: W291 trailing whitespace
+.\main_improved.py:324:1: W293 blank line contains whitespace
+.\main_improved.py:329:39: W291 trailing whitespace
+.\main_improved.py:330:36: W291 trailing whitespace
+.\main_improved.py:339:1: W293 blank line contains whitespace
+.\main_improved.py:344:1: W293 blank line contains whitespace
+.\main_improved.py:346:80: E501 line too long (82 > 79 characters)
+.\main_improved.py:353:1: W293 blank line contains whitespace
+.\main_improved.py:357:80: E501 line too long (86 > 79 characters)
+.\main_improved.py:370:1: W293 blank line contains whitespace
+.\main_improved.py:376:1: W293 blank line contains whitespace
+.\main_improved.py:379:1: W293 blank line contains whitespace
+.\main_improved.py:386:11: W292 no newline at end of file
+.\platforms\twitcasting_recorder.py:20:71: W291 trailing whitespace
+.\platforms\twitcasting_recorder.py:23:1: F401 'core.file_verifier.VerificationRule' imported but unused
+.\platforms\twitcasting_recorder.py:23:1: F401 'core.file_verifier.VerificationType' imported but unused
+.\platforms\twitcasting_recorder.py:24:1: F401 'core.retry_strategy.RetryConfiguration' imported but unused
+.\platforms\twitcasting_recorder.py:25:80: E501 line too long (85 > 79 characters)
+.\platforms\twitcasting_recorder.py:51:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:59:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:66:80: E501 line too long (86 > 79 characters)
+.\platforms\twitcasting_recorder.py:67:80: E501 line too long (82 > 79 characters)
+.\platforms\twitcasting_recorder.py:68:80: E501 line too long (95 > 79 characters)
+.\platforms\twitcasting_recorder.py:72:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:77:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:80:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:85:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:93:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:95:80: E501 line too long (86 > 79 characters)
+.\platforms\twitcasting_recorder.py:104:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:112:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:120:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:122:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:127:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:130:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:135:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:144:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:153:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:162:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:171:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:180:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:190:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:195:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:198:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:208:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:215:80: E501 line too long (95 > 79 characters)
+.\platforms\twitcasting_recorder.py:218:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:228:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:232:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:234:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:243:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:249:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:255:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:258:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:266:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:269:80: E501 line too long (87 > 79 characters)
+.\platforms\twitcasting_recorder.py:272:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:277:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:279:80: E501 line too long (87 > 79 characters)
+.\platforms\twitcasting_recorder.py:282:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:285:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:299:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:300:23: W291 trailing whitespace
+.\platforms\twitcasting_recorder.py:307:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:318:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:327:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:328:80: E501 line too long (84 > 79 characters)
+.\platforms\twitcasting_recorder.py:331:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:334:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:340:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:352:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:355:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:358:80: E501 line too long (81 > 79 characters)
+.\platforms\twitcasting_recorder.py:359:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:363:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:372:80: E501 line too long (82 > 79 characters)
+.\platforms\twitcasting_recorder.py:373:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:378:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:393:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:401:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:402:80: E501 line too long (109 > 79 characters)
+.\platforms\twitcasting_recorder.py:406:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:409:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:415:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:417:80: E501 line too long (80 > 79 characters)
+.\platforms\twitcasting_recorder.py:418:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:424:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:431:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:436:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:437:46: W291 trailing whitespace
+.\platforms\twitcasting_recorder.py:438:39: E128 continuation line under-indented for visual indent
+.\platforms\twitcasting_recorder.py:439:39: E128 continuation line under-indented for visual indent
+.\platforms\twitcasting_recorder.py:440:39: E128 continuation line under-indented for visual indent
+.\platforms\twitcasting_recorder.py:441:39: E128 continuation line under-indented for visual indent
+.\platforms\twitcasting_recorder.py:442:39: E128 continuation line under-indented for visual indent
+.\platforms\twitcasting_recorder.py:442:80: E501 line too long (103 > 79 characters)
+.\platforms\twitcasting_recorder.py:446:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:458:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:466:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:475:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:481:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:485:80: E501 line too long (84 > 79 characters)
+.\platforms\twitcasting_recorder.py:488:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:490:80: E501 line too long (85 > 79 characters)
+.\platforms\twitcasting_recorder.py:492:80: E501 line too long (113 > 79 characters)
+.\platforms\twitcasting_recorder.py:492:114: W291 trailing whitespace
+.\platforms\twitcasting_recorder.py:495:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:504:80: E501 line too long (90 > 79 characters)
+.\platforms\twitcasting_recorder.py:505:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:507:80: E501 line too long (103 > 79 characters)
+.\platforms\twitcasting_recorder.py:510:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:516:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:517:80: E501 line too long (85 > 79 characters)
+.\platforms\twitcasting_recorder.py:521:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:523:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:525:80: E501 line too long (93 > 79 characters)
+.\platforms\twitcasting_recorder.py:526:80: E501 line too long (82 > 79 characters)
+.\platforms\twitcasting_recorder.py:527:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:528:80: E501 line too long (89 > 79 characters)
+.\platforms\twitcasting_recorder.py:530:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:533:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:534:80: E501 line too long (99 > 79 characters)
+.\platforms\twitcasting_recorder.py:536:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:537:80: E501 line too long (92 > 79 characters)
+.\platforms\twitcasting_recorder.py:539:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:541:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:545:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:548:80: E501 line too long (94 > 79 characters)
+.\platforms\twitcasting_recorder.py:551:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:558:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:563:80: E501 line too long (81 > 79 characters)
+.\platforms\twitcasting_recorder.py:566:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:569:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:579:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:584:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:594:13: F841 local variable 'error_type' is assigned to but never used
+.\platforms\twitcasting_recorder.py:601:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:604:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:615:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:619:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:622:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:623:11: F541 f-string is missing placeholders
+.\platforms\twitcasting_recorder.py:626:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:632:1: W293 blank line contains whitespace
+.\platforms\twitcasting_recorder.py:635:11: F541 f-string is missing placeholders
+.\platforms\twitcasting_recorder.py:649:26: W291 trailing whitespace
+.\platforms\twitcasting_recorder.py:655:2: W292 no newline at end of file
+.\project_health_v2.py:21:1: E302 expected 2 blank lines, found 1
+.\project_health_v2.py:32:1: E302 expected 2 blank lines, found 1
+.\project_health_v2.py:40:1: W293 blank line contains whitespace
+.\project_health_v2.py:43:70: W291 trailing whitespace
+.\project_health_v2.py:44:30: E128 continuation line under-indented for visual indent
+.\project_health_v2.py:44:80: E501 line too long (90 > 79 characters)
+.\project_health_v2.py:44:91: W291 trailing whitespace
+.\project_health_v2.py:45:18: E128 continuation line under-indented for visual indent
+.\project_health_v2.py:48:1: E302 expected 2 blank lines, found 1
+.\project_health_v2.py:57:1: W293 blank line contains whitespace
+.\project_health_v2.py:65:1: W293 blank line contains whitespace
+.\project_health_v2.py:70:1: W293 blank line contains whitespace
+.\project_health_v2.py:75:1: W293 blank line contains whitespace
+.\project_health_v2.py:84:1: W293 blank line contains whitespace
+.\project_health_v2.py:87:1: W293 blank line contains whitespace
+.\project_health_v2.py:91:61: W291 trailing whitespace
+.\project_health_v2.py:92:35: E128 continuation line under-indented for visual indent
+.\project_health_v2.py:96:1: W293 blank line contains whitespace
+.\project_health_v2.py:100:1: W293 blank line contains whitespace
+.\project_health_v2.py:103:80: E501 line too long (80 > 79 characters)
+.\project_health_v2.py:104:1: W293 blank line contains whitespace
+.\project_health_v2.py:108:1: W293 blank line contains whitespace
+.\project_health_v2.py:109:80: E501 line too long (85 > 79 characters)
+.\project_health_v2.py:111:1: W293 blank line contains whitespace
+.\project_health_v2.py:114:1: W293 blank line contains whitespace
+.\project_health_v2.py:116:80: E501 line too long (82 > 79 characters)
+.\project_health_v2.py:117:1: W293 blank line contains whitespace
+.\project_health_v2.py:122:80: E501 line too long (85 > 79 characters)
+.\project_health_v2.py:123:1: W293 blank line contains whitespace
+.\project_health_v2.py:137:1: W293 blank line contains whitespace
+.\project_health_v2.py:158:1: W293 blank line contains whitespace
+.\project_health_v2.py:164:80: E501 line too long (85 > 79 characters)
+.\project_health_v2.py:167:1: W293 blank line contains whitespace
+.\project_health_v2.py:174:9: E722 do not use bare 'except'
+.\project_health_v2.py:177:1: W293 blank line contains whitespace
+.\project_health_v2.py:184:9: E722 do not use bare 'except'
+.\project_health_v2.py:191:1: W293 blank line contains whitespace
+.\project_health_v2.py:194:1: W293 blank line contains whitespace
+.\project_health_v2.py:197:59: W291 trailing whitespace
+.\project_health_v2.py:198:35: E128 continuation line under-indented for visual indent
+.\project_health_v2.py:202:1: W293 blank line contains whitespace
+.\project_health_v2.py:206:1: W293 blank line contains whitespace
+.\project_health_v2.py:208:80: E501 line too long (81 > 79 characters)
+.\project_health_v2.py:209:1: W293 blank line contains whitespace
+.\project_health_v2.py:210:80: E501 line too long (85 > 79 characters)
+.\project_health_v2.py:212:1: W293 blank line contains whitespace
+.\project_health_v2.py:216:1: W293 blank line contains whitespace
+.\project_health_v2.py:220:1: W293 blank line contains whitespace
+.\project_health_v2.py:222:1: W293 blank line contains whitespace
+.\project_health_v2.py:228:1: W293 blank line contains whitespace
+.\project_health_v2.py:242:1: W293 blank line contains whitespace
+.\project_health_v2.py:257:1: W293 blank line contains whitespace
+.\project_health_v2.py:260:1: W293 blank line contains whitespace
+.\project_health_v2.py:263:61: W291 trailing whitespace
+.\project_health_v2.py:264:35: E128 continuation line under-indented for visual indent
+.\project_health_v2.py:268:1: W293 blank line contains whitespace
+.\project_health_v2.py:272:1: W293 blank line contains whitespace
+.\project_health_v2.py:274:80: E501 line too long (93 > 79 characters)
+.\project_health_v2.py:275:1: W293 blank line contains whitespace
+.\project_health_v2.py:276:80: E501 line too long (84 > 79 characters)
+.\project_health_v2.py:278:1: W293 blank line contains whitespace
+.\project_health_v2.py:282:1: W293 blank line contains whitespace
+.\project_health_v2.py:284:1: W293 blank line contains whitespace
+.\project_health_v2.py:290:1: W293 blank line contains whitespace
+.\project_health_v2.py:303:1: W293 blank line contains whitespace
+.\project_health_v2.py:318:1: W293 blank line contains whitespace
+.\project_health_v2.py:323:1: W293 blank line contains whitespace
+.\project_health_v2.py:335:1: W293 blank line contains whitespace
+.\project_health_v2.py:343:1: W293 blank line contains whitespace
+.\project_health_v2.py:351:1: W293 blank line contains whitespace
+.\project_health_v2.py:357:1: W293 blank line contains whitespace
+.\project_health_v2.py:362:1: W293 blank line contains whitespace
+.\project_health_v2.py:365:1: W293 blank line contains whitespace
+.\project_health_v2.py:367:1: W293 blank line contains whitespace
+.\project_health_v2.py:372:1: W293 blank line contains whitespace
+.\project_health_v2.py:374:1: W293 blank line contains whitespace
+.\project_health_v2.py:378:1: W293 blank line contains whitespace
+.\project_health_v2.py:380:1: W293 blank line contains whitespace
+.\project_health_v2.py:382:80: E501 line too long (104 > 79 characters)
+.\project_health_v2.py:383:1: W293 blank line contains whitespace
+.\project_health_v2.py:386:1: W293 blank line contains whitespace
+.\project_health_v2.py:390:1: W293 blank line contains whitespace
+.\project_health_v2.py:395:1: W293 blank line contains whitespace
+.\project_health_v2.py:397:80: E501 line too long (81 > 79 characters)
+.\project_health_v2.py:398:1: W293 blank line contains whitespace
+.\project_health_v2.py:407:1: W293 blank line contains whitespace
+.\project_health_v2.py:410:1: W293 blank line contains whitespace
+.\project_health_v2.py:414:1: W293 blank line contains whitespace
+.\project_health_v2.py:417:80: E501 line too long (89 > 79 characters)
+.\project_health_v2.py:420:80: E501 line too long (96 > 79 characters)
+.\project_health_v2.py:422:80: E501 line too long (80 > 79 characters)
+.\project_health_v2.py:423:1: W293 blank line contains whitespace
+.\project_health_v2.py:425:1: W293 blank line contains whitespace
+.\project_health_v2.py:431:1: W293 blank line contains whitespace
+.\project_health_v2.py:435:1: W293 blank line contains whitespace
+.\project_health_v2.py:443:1: W293 blank line contains whitespace
+.\project_health_v2.py:448:1: W293 blank line contains whitespace
+.\project_health_v2.py:453:1: W293 blank line contains whitespace
+.\project_health_v2.py:461:1: W293 blank line contains whitespace
+.\project_health_v2.py:465:1: W293 blank line contains whitespace
+.\project_health_v2.py:471:11: W292 no newline at end of file
+.\recording_result.py:29:1: W293 blank line contains whitespace
+.\recording_result.py:34:1: W293 blank line contains whitespace
+.\recording_result.py:39:1: W293 blank line contains whitespace
+.\recording_result.py:44:1: W293 blank line contains whitespace
+.\recording_result.py:47:1: W293 blank line contains whitespace
+.\recording_result.py:52:1: W293 blank line contains whitespace
+.\recording_result.py:55:1: W293 blank line contains whitespace
+.\recording_result.py:60:1: W293 blank line contains whitespace
+.\recording_result.py:62:80: E501 line too long (89 > 79 characters)
+.\recording_result.py:64:1: W293 blank line contains whitespace
+.\recording_result.py:67:80: E501 line too long (85 > 79 characters)
+.\recording_result.py:68:1: W293 blank line contains whitespace
+.\recording_result.py:73:1: W293 blank line contains whitespace
+.\recording_result.py:79:1: W293 blank line contains whitespace
+.\recording_result.py:83:1: W293 blank line contains whitespace
+.\recording_result.py:85:1: W293 blank line contains whitespace
+.\recording_result.py:91:1: W293 blank line contains whitespace
+.\recording_result.py:95:1: W293 blank line contains whitespace
+.\recording_result.py:100:1: W293 blank line contains whitespace
+.\recording_result.py:106:1: W293 blank line contains whitespace
+.\recording_result.py:116:1: W293 blank line contains whitespace
+.\recording_result.py:123:80: E501 line too long (83 > 79 characters)
+.\recording_result.py:135:1: W293 blank line contains whitespace
+.\recording_result.py:140:1: W293 blank line contains whitespace
+.\recording_result.py:147:25: W292 no newline at end of file
+.\test_architecture_health.py:29:1: W293 blank line contains whitespace
+.\test_architecture_health.py:32:5: F401 'core.verifier.result.FileVerificationResult' imported but unused
+.\test_architecture_health.py:32:5: F401 'core.verifier.result.StrategyResult' imported but unused
+.\test_architecture_health.py:32:80: E501 line too long (89 > 79 characters)
+.\test_architecture_health.py:33:5: F401 'core.verifier.checkers.base.VerificationStrategy' imported but unused
+.\test_architecture_health.py:34:5: F401 'core.verifier.checkers.size_checker.create_video_size_strategy' imported but unused
+.\test_architecture_health.py:34:80: E501 line too long (96 > 79 characters)
+.\test_architecture_health.py:35:1: W293 blank line contains whitespace
+.\test_architecture_health.py:54:1: W293 blank line contains whitespace
+.\test_architecture_health.py:61:1: W293 blank line contains whitespace
+.\test_architecture_health.py:64:32: E261 at least two spaces before inline comment
+.\test_architecture_health.py:67:1: W293 blank line contains whitespace
+.\test_architecture_health.py:70:1: W293 blank line contains whitespace
+.\test_architecture_health.py:73:80: E501 line too long (85 > 79 characters)
+.\test_architecture_health.py:74:1: W293 blank line contains whitespace
+.\test_architecture_health.py:110:1: W391 blank line at end of file
+.\test_final_architecture.py:2:5: F401 'core.verifier.engine.VerificationEngine' imported but unused
+.\test_final_architecture.py:2:80: E501 line too long (83 > 79 characters)
+.\test_final_architecture.py:3:5: F401 'core.verifier.checkers.size_checker.FileSizeStrategy' imported but unused
+.\test_final_architecture.py:3:80: E501 line too long (96 > 79 characters)
+.\test_final_architecture.py:4:5: F401 'core.verifier.result.StrategyResult' imported but unused
+.\test_final_architecture.py:7:1: W293 blank line contains whitespace
+.\test_final_architecture.py:13:1: W293 blank line contains whitespace
+.\test_import.py:2:5: F401 'core.verifier.engine.VerificationEngine' imported but unused
+.\test_import.py:3:5: F401 'core.verifier.checkers.file_size.FileSizeStrategy' imported but unused
+.\test_import.py:6:23: W292 no newline at end of file
+.\twitcasting_recorder.py:10:1: F401 'typing.Dict' imported but unused
+.\twitcasting_recorder.py:10:1: F401 'typing.Any' imported but unused
+.\twitcasting_recorder.py:38:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:51:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:56:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:64:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:74:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:75:23: W291 trailing whitespace
+.\twitcasting_recorder.py:81:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:93:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:97:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:100:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:111:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:115:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:118:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:122:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:125:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:127:80: E501 line too long (87 > 79 characters)
+.\twitcasting_recorder.py:128:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:139:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:147:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:151:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:154:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:164:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:171:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:178:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:180:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:184:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:189:80: E501 line too long (83 > 79 characters)
+.\twitcasting_recorder.py:192:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:195:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:198:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:199:40: W291 trailing whitespace
+.\twitcasting_recorder.py:200:33: E128 continuation line under-indented for visual indent
+.\twitcasting_recorder.py:201:33: E128 continuation line under-indented for visual indent
+.\twitcasting_recorder.py:202:33: E128 continuation line under-indented for visual indent
+.\twitcasting_recorder.py:203:33: E128 continuation line under-indented for visual indent
+.\twitcasting_recorder.py:206:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:212:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:218:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:227:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:233:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:243:80: E501 line too long (93 > 79 characters)
+.\twitcasting_recorder.py:244:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:251:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:257:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:258:80: E501 line too long (105 > 79 characters)
+.\twitcasting_recorder.py:261:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:264:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:266:80: E501 line too long (80 > 79 characters)
+.\twitcasting_recorder.py:269:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:279:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:289:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:299:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:309:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:316:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:320:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:323:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:332:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:344:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:347:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:357:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:360:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:373:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:381:1: W293 blank line contains whitespace
+.\twitcasting_recorder.py:383:29: W292 no newline at end of file
+.\url_utils.py:7:1: F401 'typing.Optional' imported but unused
+.\url_utils.py:12:1: W293 blank line contains whitespace
+.\url_utils.py:17:1: W293 blank line contains whitespace
+.\url_utils.py:27:1: W293 blank line contains whitespace
+.\url_utils.py:32:1: W293 blank line contains whitespace
+.\url_utils.py:34:80: E501 line too long (82 > 79 characters)
+.\url_utils.py:36:1: W293 blank line contains whitespace
+.\url_utils.py:39:1: W293 blank line contains whitespace
+.\url_utils.py:47:1: W293 blank line contains whitespace
+.\url_utils.py:49:1: W293 blank line contains whitespace
+.\url_utils.py:56:1: W293 blank line contains whitespace
+.\url_utils.py:63:1: W293 blank line contains whitespace
+.\url_utils.py:66:1: W293 blank line contains whitespace
+.\url_utils.py:75:1: W293 blank line contains whitespace
+.\url_utils.py:94:62: W292 no newline at end of file
+45    E128 continuation line under-indented for visual indent
+6     E261 at least two spaces before inline comment
+5     E301 expected 1 blank line, found 0
+24    E302 expected 2 blank lines, found 1
+235   E501 line too long (103 > 79 characters)
+5     E722 do not use bare 'except'
+35    F401 'subprocess' imported but unused
+3     F541 f-string is missing placeholders
+2     F841 local variable 'e' is assigned to but never used
+79    W291 trailing whitespace
+17    W292 no newline at end of file
+597   W293 blank line contains whitespace
+3     W391 blank line at end of file

@@ -1,0 +1,20 @@
+{
+  "status": "FAILED_NO_FILE",
+  "video_path": "recordings\\test_user_20250723_134855.mp4",
+  "log_path": "recordings\\test_user_20250723_134855.log.json",
+  "start_time": "2025-07-23T13:48:55.757383",
+  "end_time": "2025-07-23T13:48:58.771367",
+  "duration_seconds": 3.013984,
+  "file_size_bytes": 0,
+  "error_message": "ダミー実装：ファイル作成をスキップ",
+  "ffmpeg_exit_code": 1,
+  "metadata": {
+    "url": "https://twitcasting.tv/test_user",
+    "password_protected": false,
+    "recorder_version": "dummy_v1.0"
+  },
+  "is_success": false,
+  "is_file_valid": false,
+  "duration_formatted": "00:03",
+  "file_size_formatted": "0 B"
+}
